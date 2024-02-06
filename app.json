@@ -1,0 +1,12 @@
+{
+    "name": "browserless/chrome",
+    "description": "Heroku wrapper for browserless/chrome",
+    "keywords": [
+        "browserless",
+        "chrome"
+    ],
+    "website": "https://www.browserless.io",
+    "repository": "https://github.com/Inzhenerka/browserless-chrome-heroku",
+    "success_url": "/",
+    "stack": "container"
+}
