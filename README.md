@@ -7,3 +7,13 @@ Deploy [browserless/chrome](https://github.com/browserless/chrome) for websites 
 ## Configuration
 
 -   [Docker Configuration](https://www.browserless.io/docs/docker)
+
+## Use with playwright
+
+Add this to `use` field of your Playwright configuration (`playwright.config.ts` file):
+
+``` typescript
+    connectOptions: {
+      wsEndpoint: 'wss://<your-app-id>.herokuapp.com/playwright'
+    }
+```
