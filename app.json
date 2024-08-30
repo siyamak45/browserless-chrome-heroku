@@ -1,5 +1,5 @@
 {
-    "name": "browserless/chrome",
+    "name": "browserless/browserless",
     "description": "Heroku wrapper for browserless/chrome",
     "keywords": [
         "browserless",
