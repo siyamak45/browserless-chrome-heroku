@@ -2,7 +2,7 @@
 
 Deploy [browserless/chrome](https://github.com/browserless/chrome) for websites testing in one click
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Inzhenerka/browserless-chrome-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/siyamak45/browserless-chrome-heroku)
 
 ## Configuration
 
