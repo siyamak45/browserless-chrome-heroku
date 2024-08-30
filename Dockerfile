@@ -1,1 +1,1 @@
-FROM browserless/chrome
+FROM browserless/browserless/tree/v1
