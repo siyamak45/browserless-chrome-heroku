@@ -1,2 +1,1 @@
-FROM browserless/chrome
-ARG BRANCH_NAME=v1
+FROM browserless/browserless#v1
